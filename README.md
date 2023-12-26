@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Oriekaose's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osestic&theme=darcula&hide_border=true)
+![Oriekaose's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osestic&theme=darcula&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Osestic/langs?use_percent=true&compact=false&time_range=all_time&theme=synthwaves&loc_metric=changed)](https://githubtrends.io) [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Osestic/repos?use_percent=true&compact=false&theme=synthwaves&loc_metric=changed&time_range=all_time)](https://githubtrends.io)
 
