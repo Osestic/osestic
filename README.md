@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubwrapped.io/Osestic)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Osestic/langs)](https://githubtrends.io)
