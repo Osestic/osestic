@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,arduino,html,css&perline=11)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,github,matlab,arduino,html,css&perline=11)](https://skillicons.dev)
 
 ![Oriekaose's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osestic&theme=darcula&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
