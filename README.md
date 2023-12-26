@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Osestic/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Osestic/langs?use_percent=true&compact=false)](https://githubtrends.io)
+
+
+
