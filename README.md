@@ -1,7 +1,7 @@
-### Hi there 👋
+# My name is Oriekaose Chukwuyem Agholor
+## Will you join me in using science, technology, engineering and music to impact the world?👋
 
-<!--
-**Osestic/osestic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
