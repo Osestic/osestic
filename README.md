@@ -17,4 +17,8 @@ With this gift, I desire to innovate, create, and develop amidst any circumstanc
 
 Note: Some of the stats incorporate the contributions and languages used by others who collaborated on my projects. For example, I do not code in Kotlin or Swift.
 
+## I want to collaborate with anyone who has ideas and projects capable of impact whether at a small or large scale
+### Connect and reach out to me
+
+[![My LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriekaose-agholor)             
 
