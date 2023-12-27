@@ -14,9 +14,9 @@ With this gift, I desire to innovate, create, and develop amidst any circumstanc
 
 ![Osestic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osestic&theme=synthwave&hide_border=true)
 
+![Osestic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osestic&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
-
-![Osestic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osestic&theme=synthwave&show_icons=true&hide_border=true&layout=compact)[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Osestic/repos?use_percent=true&compact=false&theme=synthwaves&loc_metric=changed&time_range=all_time)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Osestic/repos?use_percent=true&compact=false&theme=synthwaves&loc_metric=changed&time_range=all_time)](https://githubtrends.io)
 
 Note: Some of the stats incorporate the contributions and languages used by others who collaborated on my projects. For example, I do not code in Kotlin or Swift.
 
