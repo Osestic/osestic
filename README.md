@@ -12,10 +12,10 @@ With this gift, I desire to innovate, create, and develop amidst any circumstanc
 
 ### My GitHub statistics:
 
-![Osestic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osestic&theme=neon-palenight&hide_border=true)
-![Osestic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osestic&theme=neon-palenight&show_icons=true&hide_border=true&layout=compact)
+![Osestic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osestic&theme=synthwave&hide_border=true)
+![Osestic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osestic&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
-![Osestic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osestic&theme=maroongold&show_icons=true&hide_border=true&layout=compact)
+#![Osestic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osestic&theme=maroongold&show_icons=true&hide_border=true&layout=compact)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Osestic/langs?use_percent=true&compact=false&time_range=all_time&theme=synthwaves&loc_metric=changed)](https://githubtrends.io) [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Osestic/repos?use_percent=true&compact=false&theme=synthwaves&loc_metric=changed&time_range=all_time)](https://githubtrends.io)
 
