@@ -1,13 +1,11 @@
 # My name is Oriekaose Chukwuyem Agholor
-## Will you join me in using science, technology, engineering and music to impact the world?👋
+## Will you join me in using science, technology, engineering and music to impact the world?
 
 ### I am an aspiring Robotics and Mechatronic Systems Engineer
 
 I have been blessed by God with the gift to create and innovate unique works and solutions with any material or medium while using any tool or device at my disposal and any technique and process I have learned.
 
-With this gift, I desire to innovate, create, and
-develop amidst any circumstances to positively impact my home
-country, Nigeria and better the world around me.
+With this gift, I desire to innovate, create, and develop amidst any circumstances to positively impact my home country, Nigeria and better the world around me.
 
 ### These are some of my current skill sets:
  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,github,matlab,visualstudio,arduino,html,css,wordpress&perline=11)](https://skillicons.dev)
