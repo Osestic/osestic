@@ -20,7 +20,7 @@ Note: Some of the stats incorporate the contributions and languages used by othe
 ## I want to collaborate with anyone who has ideas and projects capable of impact whether at a small or large scale
 ### Connect and reach out to me
 
-[![My LinkedIn](https://clinkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriekaose-agholor)            
+[![My LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriekaose-agholor)            
 
 [![My email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oriekaoseagholor@gmail.com)
 
