@@ -11,7 +11,10 @@ With this gift, I desire to innovate, create, and develop amidst any circumstanc
  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,github,matlab,visualstudio,arduino,html,css,wordpress&perline=11)](https://skillicons.dev)
 
 ### My GitHub statistics:
-![Oriekaose's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osestic&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![Oriekaose's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osestic&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D)]
+
+![Osestic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osestic&theme=vue-dark&hide_border=true)
+![Osestic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osestic&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Osestic/langs?use_percent=true&compact=false&time_range=all_time&theme=synthwaves&loc_metric=changed)](https://githubtrends.io) [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Osestic/repos?use_percent=true&compact=false&theme=synthwaves&loc_metric=changed&time_range=all_time)](https://githubtrends.io)
 
