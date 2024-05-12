@@ -8,7 +8,7 @@ I have been blessed by God with the gift to create and innovate unique works and
 With this gift, I desire to innovate, create, and develop amidst any circumstances to positively impact my home country, Nigeria and better the world around me.
 
 ### These are some of my current skill sets:
- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,github,matlab,visualstudio,vscode,pycharm,intelliJ,linux,windows,raspberrypi,arduino,html,css,wordpress&perline=11)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,github,matlab,visualstudio,vscode,pycharm,intelli,linux,windows,raspberrypi,arduino,html,css,wordpress&perline=11)](https://skillicons.dev)
 
 ### My GitHub statistics:
 
