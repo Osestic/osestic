@@ -1,7 +1,7 @@
 # My name is Oriekaose Chukwuyem Agholor
 ## Will you join me in using science, technology, engineering and music to impact the world?
 
-### I am an aspiring Robotics and Mechatronic Systems Engineer
+### I am an aspiring Robotics and Mechatronic Systems Engineer as well as a musician!
 
 I have been blessed by God with the gift to create and innovate unique works and solutions with any material or medium while using any tool or device at my disposal and any technique and process I have learned.
 
