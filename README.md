@@ -1,4 +1,5 @@
 # Oriekaose Chukwuyem Agholor
+[![Linkedin Badge](https://img.shields.io/badge/-oriekaose_agholor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oriekaose-agholor/)](https://www.linkedin.com/in/tanejasaksham/)  [![Gmail Badge](https://img.shields.io/badge/-oriekaoseagholor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriekaoseagholor@gmail.com)](mailto:oriekaoseagholor@gmail.com)
 ## Will you join me in using science, technology, engineering and music to impact the world?
 
 ### I am an aspiring Robotics and Mechatronic Systems Engineer as well as a musician!
@@ -7,7 +8,6 @@ I have been blessed by God with the gift to create and innovate unique works and
 
 With this gift, I desire to innovate, create, and develop amidst any circumstances to positively impact my home country, Nigeria and better the world around me.
 
-[![Linkedin Badge](https://img.shields.io/badge/-oriekaose_agholor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oriekaose-agholor/)](https://www.linkedin.com/in/tanejasaksham/)  [![Gmail Badge](https://img.shields.io/badge/-oriekaoseagholor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriekaoseagholor@gmail.com)](mailto:oriekaoseagholor@gmail.com)
 
 ### These are some of my current skill sets:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,matlab,java,github,gitlab,powershell,visualstudio,vscode,pycharm,idea,ros,linux,windows,raspberrypi,arduino,postman,html,css,wordpress&perline=11)](https://skillicons.dev)
@@ -25,5 +25,5 @@ Note: Some of the stats incorporate the contributions and languages used by othe
 ## I want to collaborate with anyone who has ideas and projects capable of impact whether at a small or large scale
 ### Connect and reach out to me
 
-[![My LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriekaose-agholor) [![My email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oriekaoseagholor@gmail.com) (oriekaoseagholor@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-oriekaose_agholor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oriekaose-agholor/)](https://www.linkedin.com/in/tanejasaksham/)  [![Gmail Badge](https://img.shields.io/badge/-oriekaoseagholor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriekaoseagholor@gmail.com)](mailto:oriekaoseagholor@gmail.com)
 
