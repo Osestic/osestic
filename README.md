@@ -1,4 +1,4 @@
-# My name is Oriekaose Chukwuyem Agholor
+# Oriekaose Chukwuyem Agholor
 ## Will you join me in using science, technology, engineering and music to impact the world?
 
 ### I am an aspiring Robotics and Mechatronic Systems Engineer as well as a musician!
