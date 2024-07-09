@@ -11,6 +11,7 @@ they are technologies of impact.
 ### Check out my:
 [![Projects](https://img.shields.io/badge/projects-orange?style=flat-square&e&link=https://www.oriekaose.com/projects/)](https://www.oriekaose.com/projects/) 
 [![Design Portfolio](https://img.shields.io/badge/design_portfolio-orange?style=flat-square&e&link=https://www.oriekaose.com/design-portfolio/)](https://www.oriekaose.com/design-portfolio/) 
+[![Music](https://img.shields.io/badge/Design_portfolio-orange?style=flat-square&e&link=https://www.oriekaose.com/music/)](https://www.oriekaose.com/music/) 
 
 
 ### These are some of my current skill sets:
