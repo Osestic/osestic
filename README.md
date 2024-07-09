@@ -1,5 +1,5 @@
 # Oriekaose Chukwuyem Agholor
-[![Linkedin Badge](https://img.shields.io/badge/personal_website-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.oriekaose.com/)](https://www.oriekaose.com) 
+[![Personal Website](https://img.shields.io/badge/personal_website-orange?style=flat-square&e&link=https://www.oriekaose.com/)](https://www.oriekaose.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-oriekaose_agholor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oriekaose-agholor/)](https://www.linkedin.com/in/oriekaose-agholor/)  [![Gmail Badge](https://img.shields.io/badge/-oriekaoseagholor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriekaoseagholor@gmail.com)](mailto:oriekaoseagholor@gmail.com)
 ## Will you join me in using science, technology, engineering and music to impact the world?
 
