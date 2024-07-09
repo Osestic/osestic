@@ -1,5 +1,5 @@
 # Oriekaose Chukwuyem Agholor
-[![Personal Website](https://img.shields.io/badge/personal_website-orange?style=flat-square&e&link=https://www.oriekaose.com/)](https://www.oriekaose.com) 
+[![Personal Website](https://img.shields.io/badge/Personal_website-orange?style=flat-square&e&link=https://www.oriekaose.com/)](https://www.oriekaose.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-oriekaose_agholor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oriekaose-agholor/)](https://www.linkedin.com/in/oriekaose-agholor/)  [![Gmail Badge](https://img.shields.io/badge/-oriekaoseagholor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriekaoseagholor@gmail.com)](mailto:oriekaoseagholor@gmail.com)
 ## Will you join me in using science, technology, engineering and music to impact the world?
 
@@ -9,9 +9,9 @@ My God-given calling is to use whatever resource, skill and knowledge base at my
 they are technologies of impact.
 
 ### Check out my:
-[![Projects](https://img.shields.io/badge/projects-orange?style=flat-square&e&link=https://www.oriekaose.com/projects/)](https://www.oriekaose.com/projects/) 
-[![Design Portfolio](https://img.shields.io/badge/design_portfolio-orange?style=flat-square&e&link=https://www.oriekaose.com/design-portfolio/)](https://www.oriekaose.com/design-portfolio/) 
-[![Music](https://img.shields.io/badge/Design_portfolio-orange?style=flat-square&e&link=https://www.oriekaose.com/music/)](https://www.oriekaose.com/music/) 
+[![Projects](https://img.shields.io/badge/Projects-orange?style=flat-square&e&link=https://www.oriekaose.com/projects/)](https://www.oriekaose.com/projects/) 
+[![Design Portfolio](https://img.shields.io/badge/Design_portfolio-orange?style=flat-square&e&link=https://www.oriekaose.com/design-portfolio/)](https://www.oriekaose.com/design-portfolio/) 
+[![Music](https://img.shields.io/badge/Music-orange?style=flat-square&e&link=https://www.oriekaose.com/music/)](https://www.oriekaose.com/music/) 
 
 
 ### These are some of my current skill sets:
@@ -31,5 +31,5 @@ Note: Some of the stats incorporate the contributions and languages used by othe
 ## I want to collaborate with anyone who has ideas and projects capable of impact whether at a small or large scale
 ### Connect and reach out to me
 
-[![Personal Website](https://img.shields.io/badge/personal_website-orange?style=flat-square&e&link=https://www.oriekaose.com/)](https://www.oriekaose.com) [![Linkedin Badge](https://img.shields.io/badge/-oriekaose_agholor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oriekaose-agholor/)](https://www.linkedin.com/in/oriekaose-agholor/)  [![Gmail Badge](https://img.shields.io/badge/-oriekaoseagholor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriekaoseagholor@gmail.com)](mailto:oriekaoseagholor@gmail.com)
+[![Personal Website](https://img.shields.io/badge/Personal_website-orange?style=flat-square&e&link=https://www.oriekaose.com/)](https://www.oriekaose.com) [![Linkedin Badge](https://img.shields.io/badge/-oriekaose_agholor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oriekaose-agholor/)](https://www.linkedin.com/in/oriekaose-agholor/)  [![Gmail Badge](https://img.shields.io/badge/-oriekaoseagholor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriekaoseagholor@gmail.com)](mailto:oriekaoseagholor@gmail.com)
 
