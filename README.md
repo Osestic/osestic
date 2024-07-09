@@ -9,13 +9,14 @@ I have been blessed by God with the gift to create and innovate unique works and
 
 With this gift, I desire to innovate, create, and develop amidst any circumstances to positively impact my home country, Nigeria and better the world around me.
 
+### Check out my:
+[![Projects](https://img.shields.io/badge/projects-orange?style=flat-square&e&link=https://www.oriekaose.com/projects/)](https://www.oriekaose.com/projects/) 
+[![Design Portfolio](https://img.shields.io/badge/design_portfolio-orange?style=flat-square&e&link=https://www.oriekaose.com/design-portfolio/)](https://www.oriekaose.com/design-portfolio/) 
+
 
 ### These are some of my current skill sets:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,matlab,java,github,gitlab,powershell,visualstudio,vscode,pycharm,idea,ros,linux,windows,raspberrypi,arduino,postman,html,css,wordpress&perline=11)](https://skillicons.dev)
 
-### Check out my:
-[![Projects](https://img.shields.io/badge/projects-orange?style=flat-square&e&link=https://www.oriekaose.com/projects/)](https://www.oriekaose.com/projects/) 
-[![Design Portfolio](https://img.shields.io/badge/design_portfolio-orange?style=flat-square&e&link=https://www.oriekaose.com/design-portfolio/)](https://www.oriekaose.com/design-portfolio/) 
 
 ### My GitHub statistics:
 
