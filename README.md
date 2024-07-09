@@ -6,6 +6,8 @@
 I have been blessed by God with the gift to create and innovate unique works and solutions with any material or medium while using any tool or device at my disposal and any technique and process I have learned.
 
 With this gift, I desire to innovate, create, and develop amidst any circumstances to positively impact my home country, Nigeria and better the world around me.
+[Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/oriekaose-agholor/)](https://linkedin.com/in/oriekaose-agholor/) [!
+[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriekaoseagholor@gmail.com)](mailto:oriekaoseagholor@gmail.com)
 
 ### These are some of my current skill sets:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,matlab,java,github,gitlab,powershell,visualstudio,vscode,pycharm,idea,ros,linux,windows,raspberrypi,arduino,postman,html,css,wordpress&perline=11)](https://skillicons.dev)
