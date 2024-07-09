@@ -14,7 +14,7 @@ they are technologies of impact.
 [![Music](https://img.shields.io/badge/Music-orange?style=flat-square&e&link=https://www.oriekaose.com/music/)](https://www.oriekaose.com/music/) 
 
 ### Roles:
-1. Test Automation Engineering Intern @ Rivian, the Electric Vehicle Company (Latest).
+1. Test Automation Engineering Intern @ Rivian, the Electric Vehicle Company (Latest)
 2. Controls Engineering Intern @ Yanfeng Automotive Interiors
 3. Student Assistant @ Innovating Detroit's Agile Workforce (iDRAW)
 
