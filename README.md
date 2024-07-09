@@ -13,6 +13,10 @@ they are technologies of impact.
 [![Design Portfolio](https://img.shields.io/badge/Design_portfolio-orange?style=flat-square&e&link=https://www.oriekaose.com/design-portfolio/)](https://www.oriekaose.com/design-portfolio/) 
 [![Music](https://img.shields.io/badge/Music-orange?style=flat-square&e&link=https://www.oriekaose.com/music/)](https://www.oriekaose.com/music/) 
 
+### Roles:
+1. Test Automation Engineering Intern @ Rivian, the Electric Vehicle Company.
+2. Controls Engineering Intern @ Yanfeng Automotive Interiors
+3. Student Assistant @ Innovating Detroit's Agile Workforce (iDRAW)
 
 ### These are some of my current skill sets:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,matlab,java,github,gitlab,powershell,visualstudio,vscode,pycharm,idea,ros,linux,windows,raspberrypi,arduino,postman,html,css,wordpress&perline=11)](https://skillicons.dev)
