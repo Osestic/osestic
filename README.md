@@ -26,5 +26,5 @@ Note: Some of the stats incorporate the contributions and languages used by othe
 ## I want to collaborate with anyone who has ideas and projects capable of impact whether at a small or large scale
 ### Connect and reach out to me
 
-[![Linkedin Badge](https://img.shields.io/badge/-oriekaose_agholor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oriekaose-agholor/)](https://www.linkedin.com/in/oriekaose-agholor/)  [![Gmail Badge](https://img.shields.io/badge/-oriekaoseagholor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriekaoseagholor@gmail.com)](mailto:oriekaoseagholor@gmail.com)
+[![Personal Website](https://img.shields.io/badge/personal_website-orange?style=flat-square&e&link=https://www.oriekaose.com/)](https://www.oriekaose.com) [![Linkedin Badge](https://img.shields.io/badge/-oriekaose_agholor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oriekaose-agholor/)](https://www.linkedin.com/in/oriekaose-agholor/)  [![Gmail Badge](https://img.shields.io/badge/-oriekaoseagholor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriekaoseagholor@gmail.com)](mailto:oriekaoseagholor@gmail.com)
 
