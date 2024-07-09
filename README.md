@@ -5,9 +5,8 @@
 
 ### I am an aspiring Robotics and Mechatronic Systems Engineer as well as a musician!
 
-I have been blessed by God with the gift to create and innovate unique works and solutions with any material or medium while using any tool or device at my disposal and any technique and process I have learned.
-
-With this gift, I desire to innovate, create, and develop amidst any circumstances to positively impact my home country, Nigeria and better the world around me.
+My God-given calling is to use whatever resource, skill and knowledge base at my disposal to augment my natural talents in developing both creative and useful products. I desire to keep learning and exposing myself to varying experiences to boost my capacity to not only develop such types of products but to ensure
+they are technologies of impact.
 
 ### Check out my:
 [![Projects](https://img.shields.io/badge/projects-orange?style=flat-square&e&link=https://www.oriekaose.com/projects/)](https://www.oriekaose.com/projects/) 
