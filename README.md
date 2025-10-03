@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Oriekaose_Agholor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oriekaose-agholor/)](https://www.linkedin.com/in/oriekaose-agholor/)  [![Gmail Badge](https://img.shields.io/badge/-oriekaoseagholor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriekaoseagholor@gmail.com)](mailto:oriekaoseagholor@gmail.com)
 ## 🫱🏿‍🫲🏻 Will you join me in using science, technology, engineering and music to impact the world?
 
-### 💪🏿I am an aspiring Robotics and Mechatronic Systems Engineer as well as a musician 🎤🎷!
+### 💪🏿A Mechatronic and Robotics Engineer as well as a musician 🎤🎷!
 
 My God-given calling is to use whatever resource, skill and knowledge base at my disposal to augment my natural talents in developing both creative and useful products. I desire to keep learning and exposing myself to varying experiences to boost my capacity to not only develop such types of products but to ensure
 they are technologies of impact.
