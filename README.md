@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Oriekaose_Agholor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oriekaose-agholor/)](https://www.linkedin.com/in/oriekaose-agholor/)  [![Gmail Badge](https://img.shields.io/badge/-oriekaoseagholor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriekaoseagholor@gmail.com)](mailto:oriekaoseagholor@gmail.com)
 ## 🫱🏿‍🫲🏻 Will you join me in using science, technology, engineering and music to impact the world?
 
-### 💪🏿A Mechatronic and Robotics Engineer as well as a musician 🎤🎷!
+### 💪🏿A Mechatronic and Robotics Engineer!
 
 My God-given calling is to use whatever resource, skill and knowledge base at my disposal to augment my natural talents in developing both creative and useful products. I desire to keep learning and exposing myself to varying experiences to boost my capacity to not only develop such types of products but to ensure
 they are technologies of impact.
@@ -14,9 +14,10 @@ they are technologies of impact.
 [![Music](https://img.shields.io/badge/Music-orange?style=flat-square&e&link=https://www.oriekaose.com/music/)](https://www.oriekaose.com/music/) 
 
 ### 🧑🏿‍💼Roles:
-1. Test Automation Engineering Intern @ Rivian, the Electric Vehicle Company (Latest)
-2. Controls Engineering Intern @ Yanfeng Automotive Interiors
-3. Student Assistant @ Innovating Detroit's Agile Workforce (iDRAW)
+1. Lead Research Associate University of Michigan - Hyundai America Technical Center, Inc.
+2. Test Automation Engineering Intern @ Rivian, the Electric Vehicle Company (Latest)
+3. Controls Engineering Intern @ Yanfeng Automotive Interiors
+4. Student Assistant @ Innovating Detroit's Agile Workforce (iDRAW)
 
 
 ### 🤹🏿‍♂️These are some of my current skill sets:
