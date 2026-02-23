@@ -14,7 +14,7 @@ they are technologies of impact.
 [![Music](https://img.shields.io/badge/Music-orange?style=flat-square&e&link=https://www.oriekaose.com/music/)](https://www.oriekaose.com/music/) 
 
 ### 🧑🏿‍💼Roles:
-1. Lead Research Associate @ University of Michigan - Hyundai America Technical Center, Inc.
+1. Lead Research Associate @ University of Michigan - Hyundai America Technical Center, Inc. (Current)
 2. Test Automation Engineering Intern @ Rivian, the Electric Vehicle Company (Latest)
 3. Controls Engineering Intern @ Yanfeng Automotive Interiors
 4. Student Assistant @ Innovating Detroit's Agile Workforce (iDRAW)
